@@ -72,8 +72,7 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 4. Use these values inside your Contact.jsx component for sending emails.
 
 ## 🔗 Live Demo and Source Code
-                                                          |
-| ------------------ | --------------------------------------------------------- |
+
 | 🌍 **Live Demo**   | [View Live](https://personal-portfolio-kaif.netlify.app/) |
 
 
