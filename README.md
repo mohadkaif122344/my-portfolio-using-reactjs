@@ -82,19 +82,23 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 
 | 🌍 **Live Demo**   | [View Live](https://personal-portfolio-kaif.netlify.app/) |
 
-
+.
 <img width="1914" height="867" alt="Screenshot 2025-10-21 170343" src="https://github.com/user-attachments/assets/d750d520-79b6-4c27-a4fe-ee5e515b3537" />
 
-
+.
 <img width="1914" height="873" alt="Screenshot 2025-10-21 170358" src="https://github.com/user-attachments/assets/f98f81b8-f0ac-41c6-ab0d-71a4b096f743" />
+.
 
 <img width="1906" height="866" alt="Screenshot 2025-10-21 170410" src="https://github.com/user-attachments/assets/e6686ba8-2787-4639-9981-465dd57d894e" />
 
-
+.
 
 <img width="1906" height="866" alt="Screenshot 2025-10-21 170410" src="https://github.com/user-attachments/assets/803aba2e-721b-484b-9941-a30b627fa1d2" />
 
+.
 <img width="1916" height="875" alt="Screenshot 2025-10-21 170514" src="https://github.com/user-attachments/assets/b00ecc3d-2f71-490d-99e5-6c87f57e7e2b" />
+
+.
 
 <img width="1916" height="875" alt="Screenshot 2025-10-21 170514" src="https://github.com/user-attachments/assets/3559cc40-41ee-4d2a-b5c0-e5b8cf75add5" />
 
