@@ -14,9 +14,9 @@ This project showcases my skills, projects, and experience as a web developer �
 
 ---
 
-## 🧭 Features
+##  Features
 
-### 🧱 Sections
+###  Sections
 - **Home** – Hero banner with introduction and CTA  
 - **About** – Brief background, skills, and passion for development  
 - **Education** – Academic journey and achievements  
@@ -41,35 +41,40 @@ This project showcases my skills, projects, and experience as a web developer �
 
 Follow these steps to run the project locally 👇
 
-### 1️⃣ Clone the repository
+### 1. Clone the repository
 git clone https://github.com/your-username/portfolio.git
 
-### 2️⃣ Navigate to the project folder
+### 2️. Navigate to the project folder
 cd portfolio
 
-### 3️⃣ Install dependencies
+### 3️. Install dependencies
 npm install
 
-### 4️⃣ Start the development server
+### 4️. Start the development server
 npm run dev
 
 ### Your app will be live at:
  http://localhost:5173
+ 
+---
 
 ##  Contact Form Setup (EmailJS)
 
 1. Create a free account at EmailJS
-.
 
 2. Create a new Email Service, Template, and Integration Key.
 
 3. Add your credentials in .env file:
 
 VITE_EMAILJS_SERVICE_ID=your_service_id
+
 VITE_EMAILJS_TEMPLATE_ID=your_template_id
+
 VITE_EMAILJS_PUBLIC_KEY=your_public_key
 
 4. Use these values inside your Contact.jsx component for sending emails.
+
+---
 
 ## 🔗 Live Demo and Source Code
 
