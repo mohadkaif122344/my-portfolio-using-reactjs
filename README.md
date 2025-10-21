@@ -41,22 +41,22 @@ This project showcases my skills, projects, and experience as a web developer �
 
 Follow these steps to run the project locally 👇
 
-# 1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 git clone https://github.com/your-username/portfolio.git
 
-# 2️⃣ Navigate to the project folder
+### 2️⃣ Navigate to the project folder
 cd portfolio
 
-# 3️⃣ Install dependencies
+### 3️⃣ Install dependencies
 npm install
 
-# 4️⃣ Start the development server
+### 4️⃣ Start the development server
 npm run dev
 
-Your app will be live at:
-👉 http://localhost:5173
+### Your app will be live at:
+ http://localhost:5173
 
-## 💬 Contact Form Setup (EmailJS)
+##  Contact Form Setup (EmailJS)
 
 1. Create a free account at EmailJS
 .
