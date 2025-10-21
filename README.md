@@ -37,13 +37,10 @@ This project showcases my skills, projects, and experience as a web developer �
 ---
 
 
----
-
 ## ⚙️ Installation and Setup
 
 Follow these steps to run the project locally 👇
 
-```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/your-username/portfolio.git
 
