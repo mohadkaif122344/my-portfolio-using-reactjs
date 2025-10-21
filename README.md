@@ -3,6 +3,8 @@
 A modern and responsive **portfolio website** built with **Vite + React.js + Tailwind CSS**.  
 This project showcases my skills, projects, and experience as a web developer — featuring a sleek design, smooth animations, and dynamic content handling.
 
+
+| 🌍 **Live Demo**   | [View Live](https://personal-portfolio-kaif.netlify.app/) |
 ---
 
 ## 🚀 Tech Stack
