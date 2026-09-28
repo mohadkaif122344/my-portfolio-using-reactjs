@@ -4,7 +4,7 @@ A modern and responsive **portfolio website** built with **Vite + React.js + Tai
 This project showcases my skills, projects, and experience as a web developer — featuring a sleek design, smooth animations, and dynamic content handling.
 
 
-| 🌍 **Live Demo**   | [View Live](https://personal-portfolio-kaif.netlify.app/) |
+| 🌍 **Live Demo**   | https://mohammad-kaif-frontend-portfolio.netlify.app |
 ---
 
 ## 🚀 Tech Stack
@@ -80,7 +80,7 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 
 ## 🔗 Live Demo and Source Code
 
-| 🌍 **Live Demo**   | [View Live](https://personal-portfolio-kaif.netlify.app/) |
+| 🌍 **Live Demo**   | https://mohammad-kaif-frontend-portfolio.netlify.app |
 
 .
 <img width="1914" height="867" alt="Screenshot 2025-10-21 170343" src="https://github.com/user-attachments/assets/d750d520-79b6-4c27-a4fe-ee5e515b3537" />
