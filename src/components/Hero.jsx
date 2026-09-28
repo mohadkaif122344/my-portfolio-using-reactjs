@@ -50,7 +50,7 @@ const Hero = () => {
 
           <div className="mt-9 flex flex-wrap justify-center gap-4">
             <a
-              href="/resume"
+              href="/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-xl bg-gradient-to-r from-orange-500 to-pink-500 px-6 py-3 font-semibold shadow-lg shadow-orange-500/20 transition duration-300 hover:-translate-y-0.5"
